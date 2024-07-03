@@ -1,31 +1,3 @@
-## Software Product Company Website
-
-## AIM:
-To develop a static company website to display the softwares and services provided by the company.
-
-## DESIGN STEPS:
-
-### Step 1:
-Requirement collection.
-
-### Step 2:
-Creating the layout using HTML and CSS.
-
-### Step 3:
-Updating the sample content.
-
-### Step 4:
-Choose the appropriate style and color scheme.
-
-### Step 5:
-Validate the layout in various browsers.
-
-### Step 6:
-Validate the HTML code.
-
-### Step 7:
-Publish the website in the given URL.
-
 ## PROGRAM:
 ```
 home.html
@@ -303,7 +275,7 @@ home.html
         </form>
     </div>
     <footer>
-        Designed and Developed by roshan @24
+        Designed and Developed by premji
     </footer>
 
 </body>
@@ -483,7 +455,7 @@ people.html
         </div>
       
             <footer>
-                Designed and Developed by roshan @24
+                Designed and Developed by premji
                 </footer>
                
 </body>
@@ -883,9 +855,7 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (11).png>)
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (15).png>)
-## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
+![alt text](<Screenshot (74).png>)
+![alt text](<Screenshot (79).png>)
+![alt text](<Screenshot (75).png>)
+![alt text](<Screenshot (76).png>)
