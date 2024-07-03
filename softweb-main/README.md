@@ -1,5 +1,4 @@
-# Ex.07 Software Product Company Website
-## Date:25.03.2024
+## Software Product Company Website
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
